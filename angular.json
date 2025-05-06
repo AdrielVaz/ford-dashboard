@@ -94,9 +94,11 @@
             ],
             "tsConfig": "tsconfig.spec.json",
             "assets": [
+           
               {
                 "glob": "**/*",
                 "input": "public"
+                
               }
             ],
             "styles": [
@@ -108,5 +110,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "e1f3a751-a872-4aba-8669-a33afb371cbf"
   }
 }
