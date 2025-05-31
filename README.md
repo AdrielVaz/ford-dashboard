@@ -1,4 +1,4 @@
-Esse é Link do projeto https://ford-dashboard-master.vercel.app/inicio
+Esse é Link do projeto completo https://ford-dashboard-master.vercel.app/inicio
 
 
 # FordDashboard
