@@ -1,3 +1,6 @@
+Esse é Link do projeto https://ford-dashboard-master.vercel.app/inicio
+
+
 # FordDashboard
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.10.
